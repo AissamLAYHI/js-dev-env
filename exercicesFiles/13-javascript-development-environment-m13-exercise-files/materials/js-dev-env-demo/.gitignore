@@ -36,11 +36,8 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
-#Webstorm
-.idea
-
-#prod build
-dist
-
-#mock db
+# mock db file
 db.json
+
+# dist folder
+dist

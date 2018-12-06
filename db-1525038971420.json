@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 74792075,
+      "firstName": "Chelsea",
+      "lastName": "McLaughlin",
+      "email": "Lenore_Zulauf@hotmail.com"
+    },
+    {
+      "id": 26250280,
+      "firstName": "Rodrick",
+      "lastName": "Tremblay",
+      "email": "Brenna_Koch@gmail.com"
+    },
+    {
+      "id": 69822343,
+      "firstName": "Jaime",
+      "lastName": "Reichel",
+      "email": "Alexandrea.Schamberger43@yahoo.com"
+    },
+    {
+      "id": 82434255,
+      "firstName": "Mac",
+      "lastName": "Howell",
+      "email": "Cornell40@gmail.com"
+    }
+  ]
+}
